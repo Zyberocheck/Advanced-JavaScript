@@ -125,5 +125,5 @@ button.addEventListener('click', () => {
     }
   } catch (error) {
     errorMessage.textContent = error.message;
-  } 
+  }
 });
